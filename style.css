@@ -112,12 +112,12 @@ nav a:hover{
 .product-container{
     display: flex;
     justify-content: center;
-    gap: 20px;
+    gap: 30px;
     flex-wrap: nowrap;
 }
 
 .card{
-    width:170px;
+    width:280px;
     background:#fff;
     border-radius:18px;
     padding:25px;
